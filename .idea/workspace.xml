@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff988b15-3576-4bb7-9ca7-68a5b21418f1" name="Default Changelist" comment="some changes">
+    <list default="true" id="ff988b15-3576-4bb7-9ca7-68a5b21418f1" name="Default Changelist" comment="gta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <workItem from="1601188721653" duration="8721000" />
       <workItem from="1601206015868" duration="86000" />
       <workItem from="1601206232621" duration="1159000" />
-      <workItem from="1601313474271" duration="1282000" />
+      <workItem from="1601313474271" duration="2038000" />
     </task>
     <task id="LOCAL-00001" summary="added photo">
       <created>1601206942887</created>
@@ -73,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601314109773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gta">
+      <created>1601315075217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601315075217</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gta">
+      <created>1601315649900</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601315649900</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,12 +107,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added photo" />
     <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <MESSAGE value="gta" />
+    <option name="LAST_COMMIT_MESSAGE" value="gta" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601314119513">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601315662151">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601314119513" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601315662151" />
   </component>
 </project>
